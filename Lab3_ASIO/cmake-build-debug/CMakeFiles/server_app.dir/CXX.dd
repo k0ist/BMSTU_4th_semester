@@ -1,0 +1,5 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles\server_app.dir\server_src\main.cpp.obj: dyndep
+
+build CMakeFiles\server_app.dir\server_src\server.cpp.obj: dyndep
+

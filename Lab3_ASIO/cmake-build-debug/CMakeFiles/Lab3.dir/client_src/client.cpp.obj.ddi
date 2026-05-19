@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\Lab3.dir\\client_src\\client.cpp.obj",
+            "outputs": [
+                "C:\\Users\\arsen\\CLionProjects\\Lab3\\cmake-build-debug\\vc140.pdb",
+                "CMakeFiles\\Lab3.dir\\client_src\\client.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+C:/Users/arsen/CLionProjects/Lab3/cmake-build-debug/CMakeFiles/server_app.dir
+C:/Users/arsen/CLionProjects/Lab3/cmake-build-debug/CMakeFiles/client_app.dir
+C:/Users/arsen/CLionProjects/Lab3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/arsen/CLionProjects/Lab3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
