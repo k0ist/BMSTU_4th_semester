@@ -36,10 +36,8 @@ private:
 
 class MultiThreadedServer {
 public:
-    // Конструктор, сигнатуру которого мы исправляли (io_context, порт, количество потоков)
     MultiThreadedServer(boost::asio::io_context& io_context, short port, int num_threads);
 
-    // Деструктор для безопасного закрытия ресурсов
     ~MultiThreadedServer();
 
     void start();
