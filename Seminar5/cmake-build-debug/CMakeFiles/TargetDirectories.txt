@@ -1,3 +1,0 @@
-C:/Users/arsen/CLionProjects/Seminar5/cmake-build-debug/CMakeFiles/Seminar5.dir
-C:/Users/arsen/CLionProjects/Seminar5/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/arsen/CLionProjects/Seminar5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
